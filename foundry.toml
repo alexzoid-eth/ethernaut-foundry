@@ -1,0 +1,12 @@
+[profile.default]
+src = 'contracts'
+out = 'out'
+libs = ['lib']
+test = 'test/foundry'
+cache_path  = 'forge-cache'
+
+rpc_endpoints = { goerli = '' }
+etherscan_api_key = ''
+
+# See more config options https://github.com/foundry-rs/foundry/tree/master/config
+
