@@ -25,4 +25,5 @@ Factory addresses, along with a fundamental deployment function `levelSetUp()`, 
 18. [MagicNumber](https://github.com/z0ld/ethernaut-foundry/blob/main/test/foundry/18_MagicNumber.t.sol)
 19. [AlienCodex](https://github.com/z0ld/ethernaut-foundry/blob/main/test/foundry/19_AlienCodex.t.sol)
 20. [Denial](https://github.com/z0ld/ethernaut-foundry/blob/main/test/foundry/20_Denial.t.sol)
+
 ... in progress
